@@ -1,57 +1,131 @@
-### Hi there 👋
-
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
-
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h1 align="center">Hi developer👋, I'm dreamer</h1>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img
+                alt="cplusplus"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img
+                alt="docker"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                width="40"/>
+    </a>
+    <a href="https://golang.org" target="_blank">
+        <img
+                alt="go" height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+                width="40"/>
+    </a>
+    <a href="hexo.io/" target="_blank">
+        <img
+                alt="hexo" height="40" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" width="40"/>
+    </a>
+    <a
+            href="https://www.w3.org/html/" target="_blank">
+        <img
+                alt="html5"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img
+                alt="java" height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                width="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+       target="_blank"> <img
+            alt="javascript"
+            height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            width="40"/>
+    </a>
+    <a href="https://www.jenkins.io" target="_blank">
+        <img
+                alt="jenkins" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+    </a>
+    <a href="https://kubernetes.io" target="_blank">
+        <img
+                alt="kubernetes" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img
+                alt="linux" height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img
+                alt="mongodb"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img
+                alt="mysql"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank">
+        <img
+                alt="nginx" height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+                width="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img
+            alt="postgresql"
+            height="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            width="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img
+            alt="python"
+            height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            width="40"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img
+            alt="spring" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+        <img
+                alt="vuejs"
+                height="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+                width="40"/> </a>
+</p>
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dreamer8689&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamer8689&layout=compact)](https://github.com/Dreamer8689)
 
 <details open>
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-  <br>
+ <summary> 😇 <b>My Repositories</b>: </summary>
+<br/>
+  <a href="https://github.com/Dreamer8689/parse-cloud-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamer8689&repo=parse-cloud-code" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Dreamer8689/CampusOrder_DZJ614">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamer8689&repo=CampusOrder_DZJ614" />
+</a>
 
 </details>
 
-### 🎧 Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
-
-
-### :dart: Weekly Fuck The Code
-
-<!--START_SECTION:waka-->
-```text
-Markdown   45 mins         █████████████▓░░░░░░░░░░░   55.14 % 
-YAML       33 mins         ██████████▒░░░░░░░░░░░░░░   40.76 % 
-Other      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-```
-<!--END_SECTION:waka-->
-
-### :sparkles: My Followers
+### :sparkles: my special focus
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -160,52 +234,7 @@ Other      3 mins          █░░░░░░░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-名字：浮生甲第
-
-Github：itgoyo
-
-微博、知乎、B站：浮生甲第ITGOYO
-
-斗鱼房间:201001
-
-Don't be a programmer, Be a problem solver.
-
-公众号：Fullstacker
-
-- 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
 
 
-- :computer: PC/Mac:
-
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
 
 
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/itgoyo/Bilibili-Github/issues/2) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
-2. ❗️ Opened issue [#2](https://github.com/itgoyo/Bilibili-Github/issues/2) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
-<!--END_SECTION:activity-->
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [我花3000块钱买了巴掌大小的主机冥王峡谷NUCi7HKV，安装黑苹果已经成为我开发的主力机器](https://www.youtube.com/watch?v=80mrqUSjGiY)
-- [【终端/命令/Terminal】windows常用的10个终端命令，学会了让你在学校机房做最靓的仔](https://www.youtube.com/watch?v=F-231AQ2Rr4)
-- [【vscode/网易云】作为程序员的我是怎么使用vscode来听网易云音乐的](https://www.youtube.com/watch?v=_fIUEjYajjo)
-- [【AHA Music/听歌识曲/BMG】我愿称之为地表最强听歌识曲软件，妈妈再也不用担心我找不到热门的BGM了](https://www.youtube.com/watch?v=NKCDdKok2mE)
-- [【油管/终端/ytfzf】一款不用浏览器，直接在终端看youtube视频而且带字幕的黑科技软件](https://www.youtube.com/watch?v=nZZEaPjlTfE)
-<!-- YOUTUBE:END -->
